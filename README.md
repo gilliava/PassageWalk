@@ -1,2 +1,2 @@
 # PassageWalk
-Android app for fitness and faith building
+Android app for fitness and faith building - Writing in Kotlin
